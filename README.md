@@ -1,6 +1,9 @@
-# 📐 Multimodal Evaluation Suite
+# Multimodal Evaluation Suite
 
-> Comprehensive evaluation framework for multimodal models: text, vision, audio, and cross-modal benchmarks with automated reporting.
+> Evaluation framework spanning text, vision, audio, and cross-modal benchmarks with a unified scoring metric.
+>
+> **Context:** Extending the custom evaluation approach to multimodal models. The Unified Multimodal Score (UMS) provides a single metric for comparing models across modalities — useful when evaluating vendor solutions.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
