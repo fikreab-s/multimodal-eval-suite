@@ -61,3 +61,9 @@ $$\text{Throughput} = \frac{\text{samples}}{\text{time}}, \quad \text{FLOPS/samp
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![comparison](viz/comparison.png)
+
+---
