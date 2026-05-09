@@ -1,0 +1,56 @@
+{
+  "text_only": {
+    "text": {
+      "mmlu_subset": 73.0,
+      "pharma_qa": 83.7,
+      "json_valid": 93.3
+    },
+    "vision": {
+      "docvqa": 1.5,
+      "chart_interp": 0
+    },
+    "audio": {
+      "wer": 99.8
+    },
+    "cross_modal": {
+      "retrieval_r5": 1.6
+    },
+    "ums": 33.7
+  },
+  "text_vision": {
+    "text": {
+      "mmlu_subset": 73.5,
+      "pharma_qa": 83.1,
+      "json_valid": 93.1
+    },
+    "vision": {
+      "docvqa": 77.1,
+      "chart_interp": 70.1
+    },
+    "audio": {
+      "wer": 100.2
+    },
+    "cross_modal": {
+      "retrieval_r5": 0
+    },
+    "ums": 51.7
+  },
+  "full_multimodal": {
+    "text": {
+      "mmlu_subset": 68.6,
+      "pharma_qa": 82.9,
+      "json_valid": 90.0
+    },
+    "vision": {
+      "docvqa": 78.6,
+      "chart_interp": 69.2
+    },
+    "audio": {
+      "wer": 5.2
+    },
+    "cross_modal": {
+      "retrieval_r5": 54.9
+    },
+    "ums": 75.9
+  }
+}
